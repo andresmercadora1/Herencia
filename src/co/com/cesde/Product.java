@@ -1,9 +1,9 @@
 package co.com.cesde;
 
 public class Product {
-    protected String name;
-    protected String brand;
-    protected String reference;
+    private String name;
+    private String brand;
+    private String reference;
 
     public String getName() {
         return name;

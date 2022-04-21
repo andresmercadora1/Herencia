@@ -1,6 +1,6 @@
 package co.com.cesde;
 
-public class Tv {
+public class Tv extends Product {
     private Double screenSize;
     private String resolution;
 
